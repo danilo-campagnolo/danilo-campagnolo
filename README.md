@@ -1,6 +1,6 @@
 # Hi, I'm Danilo Pietro Campagnolo
 
-Full-stack Software Developer focused on production web applications, backend APIs, frontend user flows, third-party integrations, and containerized delivery workflows.
+Software Developer focused on production web applications, backend APIs, frontend user flows, third-party integrations, and containerized delivery workflows.
 
 I currently work mainly with **Laravel**, **PHP**, **Nuxt/Vue**, **TypeScript**, **PostgreSQL**, **Redis**, **Docker**, and **GitHub Actions**.
 
