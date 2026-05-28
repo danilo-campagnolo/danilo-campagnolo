@@ -4,8 +4,6 @@ Software Developer focused on production web applications, backend APIs, fronten
 
 I currently work mainly with **Laravel**, **PHP**, **Nuxt/Vue**, **TypeScript**, **PostgreSQL**, **Redis**, **Docker**, and **GitHub Actions**.
 
-My current learning focus is **Go backend development** and **Linux containers**, with particular attention to idiomatic Go, testable services, Podman, Containerfile best practices, and reproducible local environments.
-
 ## What I Work On
 
 - Backend APIs and business logic with Laravel and PHP
@@ -30,17 +28,6 @@ My current learning focus is **Go backend development** and **Linux containers**
 
 - [`cashlog`](https://github.com/danilo-campagnolo/cashlog)  
   React Native expense tracker with local SQLite storage, offline-first behavior, and Android widget integration.
-
-## Current Portfolio Roadmap
-
-I am currently building a stronger public portfolio around:
-
-- Go backend services
-- REST APIs with tests and clean project structure
-- Linux container fundamentals with Podman
-- Multi-stage container builds
-- Reproducible development environments
-- Practical documentation and clear README files
 
 ## Links
 
