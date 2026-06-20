@@ -19,7 +19,6 @@ I currently work mainly with **Laravel**, **PHP**, **Nuxt/Vue**, **TypeScript**,
 **Frontend:** Vue.js, Nuxt, TypeScript, Pinia, Tailwind CSS  
 **DevOps:** Docker, GitHub Actions, CI/CD, Linux  
 **Testing & Quality:** PHPUnit, Playwright, static analysis, API documentation  
-**Currently Learning:** Go, Podman, Linux containers, Containerfile best practices
 
 ## Featured Projects
 
